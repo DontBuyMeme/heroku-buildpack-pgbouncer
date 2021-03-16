@@ -2,6 +2,7 @@
 * streamline bin/compile
 * moving to CircleCI
 * remove support for Cedar 14
+* Adds PGBOUNCER_SERVER_RESET_QUERY_ALWAYS config
 
 ## v0.7.0 (August 7, 2020)
 * Change default branch name from master to main
